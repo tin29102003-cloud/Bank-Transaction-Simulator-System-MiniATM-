@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ATMMini/ATMMini.infrastructure.csproj" />
+  <Project Path="MiniATM.Entities/MiniATM.Entities.csproj" />
+  <Project Path="MiniATM.Infracstructure.SqlServer/MiniATM.Infracstructure.SqlServer.csproj" />
+  <Project Path="MiniATM.Infrastructure.InMemory/MiniATM.Infrastructure.InMemory.csproj" />
+  <Project Path="MiniATM.UseCase.Caching/MiniATM.UseCase.Caching.csproj" />
+  <Project Path="MiniATM.UseCase/MiniATM.UseCase.csproj" />
+</Solution>
